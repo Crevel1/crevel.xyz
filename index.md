@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<head>
-<link rel="stylesheet" type="text/css" href="Style.css">
-<title>Test</title>
-</head>
+
 <body>
 <nav>
       <ul>
@@ -13,6 +9,5 @@
       </ul>
      </nav>
 <p>Welcome to Crevel's website<br>May I interest you in some wine?</p>
-<img src="wott.png"> 
 </body>
 </html>
